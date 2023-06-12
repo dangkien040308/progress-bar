@@ -12,7 +12,7 @@ body {
     height: 100vh;
 }
 .container {
-    width: 700px;
+    width: 80%;
     height: 700px;
     background-color: #fff;
     border-radius: 8px;
@@ -38,7 +38,7 @@ body {
      height: 250px;
      border-radius: 50%;
      margin: 10px 0;
-     background: conic-gradient(#880bea 0deg , #ededed 0deg);
+     background: conic-gradient(#FF9966 0deg , #ededed 0deg);
      position: relative;
      display: grid;
      place-items: center;
